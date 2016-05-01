@@ -1,0 +1,17 @@
+{
+  "name": "wikipedia",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "es6-shim": "^0.35.0",
+    "lodash": "^4.11.1",
+    "react": "^0.14.7",
+    "react-autocomplete": "^1.0.0-rc2"
+  }
+}

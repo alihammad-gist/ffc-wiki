@@ -1,0 +1,13 @@
+{
+  "name": "Lightweight-JSONP",
+  "homepage": "https://github.com/erikarenhill/Lightweight-JSONP",
+  "_release": "2dbd3afa9f",
+  "_resolution": {
+    "type": "commit",
+    "commit": "2dbd3afa9f2c3395af9b8aef90cb708682237018"
+  },
+  "_source": "git://github.com/erikarenhill/Lightweight-JSONP.git",
+  "_target": "2dbd3afa9f2c3395af9b8aef90cb708682237018",
+  "_originalSource": "git://github.com/erikarenhill/Lightweight-JSONP.git",
+  "_direct": true
+}
